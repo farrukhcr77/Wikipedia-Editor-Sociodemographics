@@ -4,7 +4,7 @@ Basic Requirements - **Python 3.5+**
 
 Individual part requirements listed in respective directories
 
-The folder **"Crawler for grabbing data"** has 2 folders "crawler" and "interpreter" that are used to crawl and store data in mongo db
+The folder **"Crawler for grabbing data"** has 2 folders "crawler" and "interpreter" that are used to crawl data from wikipedia english pages and store data in mongo db
 
 The folder **"Grabbed Data from Wikipedia"** contains the bson and json files of the data grabbed from wikipedia.
 In order to use the collections in mongoDb download the files from the link in txt file in folder "Grabbed Data from Wikipedia"
